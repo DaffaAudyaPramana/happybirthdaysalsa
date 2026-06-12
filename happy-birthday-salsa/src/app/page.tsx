@@ -1041,7 +1041,7 @@ export default function Home() {
                   </motion.div>
 
                   <p className="text-4xl font-black text-rose-500 sm:text-6xl">
-                    Aku sayang kamu 🤍
+                    I LOVE U 🤍
                   </p>
 
                   <p className="mt-5 text-slate-600">
