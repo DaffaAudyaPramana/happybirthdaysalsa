@@ -15,7 +15,7 @@ import {
   Sparkles,
 } from "lucide-react";
 
-const GIRLFRIEND_NAME = "Salsa";
+const GIRLFRIEND_NAME = "Nadzira Salsa";
 
 /**
  * Ubah sesuai tanggal ulang tahun.
