@@ -28,7 +28,7 @@ const GIRLFRIEND_NAME = "Nadzira Salsa";
  * 2026-06-20T00:00:00+07:00
  */
 
-const BIRTHDAY_TARGET = "2026-06-20T00:00:00+07:00";
+const BIRTHDAY_TARGET = "2026-06-13T00:00:00+07:00";
 
 const mainPhotos = [
   {
