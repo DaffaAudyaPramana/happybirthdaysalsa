@@ -465,7 +465,7 @@ export default function Home() {
 
             <div className="relative -rotate-2 rounded-[2rem] border border-white bg-white p-4 shadow-2xl">
               <Image
-                src="/photos/hero.jpg"
+                src="/photos/heros.jpg"
                 alt={`Foto ${GIRLFRIEND_NAME}`}
                 width={520}
                 height={640}
